@@ -1,12 +1,12 @@
 # React Meetups
 
-My Impelementation of a code-along tutorial that was part of [React - The Complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) course on Udemy, the app was built with Next.js including server side rendering and api node to a Mongo database.
+My implementation of a code-along tutorial that was part of [React - The Complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) course on Udemy, the app was built with Next.js including server side rendering and api node to a Mongo database.
 
 The app enables anyone to see the meetups or add a new ones.
 
 ## Notes
 
-The project was meant to be a demonestration/practice/application for the usage of the Next.js and therefore the current data are dummy ones. 
+The project was meant to be a demonstration/practice/application for the usage of the Next.js, and therefore the current data are dummy ones. 
 
 ## Usage
 
